@@ -1,2 +1,2 @@
 # red-scarf
-visual management for docker
+a simple visual management for docker
